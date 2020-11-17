@@ -1,0 +1,12 @@
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\bin\Debug\netcoreapp3.1\JwtDemo.Domain.deps.json
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\bin\Debug\netcoreapp3.1\JwtDemo.Domain.dll
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\bin\Debug\netcoreapp3.1\JwtDemo.Domain.pdb
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\bin\Debug\netcoreapp3.1\JwtDemo.DataAccess.dll
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\bin\Debug\netcoreapp3.1\JwtDemo.DataAccess.pdb
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.csprojAssemblyReference.cache
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.AssemblyInfoInputs.cache
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.AssemblyInfo.cs
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.csproj.CoreCompileInputs.cache
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.csproj.CopyComplete
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.dll
+F:\VOVA\ШАГ\ASP.NET\Angular\02\JwtDemo\JwtDemo.Domain\obj\Debug\netcoreapp3.1\JwtDemo.Domain.pdb
